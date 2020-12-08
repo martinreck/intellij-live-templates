@@ -1,0 +1,1 @@
+# My IntelliJ Live Templates
